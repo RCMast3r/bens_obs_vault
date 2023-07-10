@@ -8,30 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "765479781b97a73c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "d5c49b78b9d446b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "RoboNav/journey.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 279,
-                  "zoom": 0
-                }
+                "file": "RoboNav/the new gazebo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RoboNav/journey.canvas",
+                "file": "RoboNav/the new gazebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RoboNav/journey.canvas",
+                "file": "RoboNav/the new gazebo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RoboNav/journey.canvas"
+                "file": "RoboNav/the new gazebo.md"
               }
             }
           }
@@ -158,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dab9e94c482c8678",
+  "active": "d5c49b78b9d446b5",
   "lastOpenFiles": [
-    "RoboNav/3D graph based SLAM.md",
+    "RoboNav/ROS2 features that could be very useful.md",
+    "RoboNav/3D SLAM and graph based SLAM.md",
+    "RoboNav/the new gazebo.md",
     "RoboNav/journey.canvas",
     "RoboNav/robonav URC background.md",
     "RoboNav/terrain mapping.md",
     "Untitled",
-    "RoboNav/journey.canvas",
     "courses that I want to take at GATECH.md",
     "RoboNav"
   ]

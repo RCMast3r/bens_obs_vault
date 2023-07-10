@@ -3,12 +3,13 @@
 		{"id":"fe8b209927a26a32","x":-200,"y":-140,"width":700,"height":480,"type":"file","file":"RoboNav/robonav URC background.md"},
 		{"id":"b414cf0e06bccaaf","x":60,"y":460,"width":320,"height":120,"type":"text","text":"it looks like their mapping could use some work, hector slam is kinda jank. we have technology!\n"},
 		{"id":"018c15e321f3d795","x":600,"y":500,"width":400,"height":400,"type":"file","file":"RoboNav/terrain mapping.md"},
-		{"id":"6e62f34c0049a60a","x":300,"y":1060,"width":400,"height":400,"type":"file","file":"RoboNav/3D graph based SLAM.md"},
-		{"id":"f786d20681d52cf8","x":-450,"y":460,"width":330,"height":120,"type":"text","text":""}
+		{"id":"6e62f34c0049a60a","x":300,"y":1060,"width":400,"height":400,"type":"file","file":"RoboNav/3D SLAM and graph based SLAM.md"},
+		{"id":"f786d20681d52cf8","x":-450,"y":460,"width":430,"height":160,"type":"text","text":"gazebo classic is under maintenance mode by the parent org, why not start us off instead by moving our currently small code base over to the new gazebo sim?\n"}
 	],
 	"edges":[
 		{"id":"84e0848e6b60fe79","fromNode":"fe8b209927a26a32","fromSide":"bottom","toNode":"b414cf0e06bccaaf","toSide":"top"},
 		{"id":"b1ef23d2eb723a6a","fromNode":"b414cf0e06bccaaf","fromSide":"right","toNode":"018c15e321f3d795","toSide":"top"},
-		{"id":"d458a77c573ab5c6","fromNode":"018c15e321f3d795","fromSide":"bottom","toNode":"6e62f34c0049a60a","toSide":"top"}
+		{"id":"d458a77c573ab5c6","fromNode":"018c15e321f3d795","fromSide":"bottom","toNode":"6e62f34c0049a60a","toSide":"top"},
+		{"id":"00c708354420bbb0","fromNode":"fe8b209927a26a32","fromSide":"bottom","toNode":"f786d20681d52cf8","toSide":"top"}
 	]
 }
