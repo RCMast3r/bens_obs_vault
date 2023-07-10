@@ -4,4 +4,5 @@
 		- teleop interface is a mixture of foxglove studio using the rosbridge (which is deprecated btw) and their own web thing that publishes a json serialized data stream of a joy message
 			- (I think that this can be done better but if it works it works)
 		- they are working with the ROS2 navigation stack rn
+- competition: https://urc.marssociety.org/
 - 
