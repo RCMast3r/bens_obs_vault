@@ -7,5 +7,14 @@
       ],
       "key": "P"
     }
+  ],
+  "terminal:open-terminal.integrated.root": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }
