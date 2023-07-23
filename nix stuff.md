@@ -39,6 +39,8 @@ https://github.com/the-nix-way
 
 ### nix flakes
 
+enabling flakes:
+
 inputs = dependencies
 
 `let` & `in`
@@ -54,3 +56,19 @@ anything with `{ }` is a set or a list of key value pairs.
 
 adding `rec` to a set allows the set to reference itself, or use parts of itself.   
 
+
+### nix home manager
+- initial setup:
+	- install nix / enable flakes yada yada yada
+	- next steps (https://nix-community.github.io/home-manager/index.html#sec-install-standalone) for setting up home manager INITIALLY without my `home.nix`
+		1. `nix-channel --add https://github.com/nix-community/home-manager/archive/master.tar.gz home-manager`
+		2. `nix-channel --update`
+		3. `nix-shell '<home-manager>' -A install`
+	- I want to use flakes for my home manager stuff, so next I can do this:
+		4. `nix run home-manager/release-23.05 -- init --switch`
+			- (i can actually prob just use this connect instead step 3)
+	- 
+	- on my home computer's wsl my home is at `/home/neb/.config/home-manager/home.nix`
+	- 
+- option search: https://mipmip.github.io/home-manager-option-search/
+	- https://nix-community.github.io/home-manager/options.html

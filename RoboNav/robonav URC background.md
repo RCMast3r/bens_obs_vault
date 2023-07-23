@@ -5,4 +5,3 @@
 			- (I think that this can be done better but if it works it works)
 		- they are working with the ROS2 navigation stack rn
 - competition: https://urc.marssociety.org/
-- 

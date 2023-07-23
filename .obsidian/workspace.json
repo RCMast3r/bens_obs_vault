@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0f140afac6b66a33",
+        "id": "ded5b6293f2ba67b",
         "type": "split",
         "children": [
           {
@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "GT/resources.md",
+                    "file": "RoboNav/generic VCU ideas and requirements.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +26,11 @@
             ]
           },
           {
-            "id": "ede8e7f549b39029",
+            "id": "45f585cb56ed7cac",
             "type": "tabs",
             "children": [
               {
-                "id": "42f5b40f1f2c7dd9",
+                "id": "24804f30c01b94f8",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -59,7 +59,7 @@
                       },
                       "serial": {
                         "columns": 241,
-                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add .",
+                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add ",
                         "rows": 35
                       }
                     }
@@ -194,19 +194,22 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "42f5b40f1f2c7dd9",
+  "active": "24804f30c01b94f8",
   "lastOpenFiles": [
-    "GT/resources.md",
+    "RoboNav/generic VCU ideas and requirements.md",
     "nix stuff.md",
-    "GT",
     "RoboNav/journey.canvas",
-    "Untitled.canvas",
-    "RoboNav/the new gazebo.md",
-    "RoboNav/ROS2 features that could be very useful.md",
+    "Stuff to get at store.md",
     "RoboNav/3D SLAM and graph based SLAM.md",
-    "RoboNav/robonav URC background.md",
+    "RoboNav/a better development method.md",
+    "RoboNav/the new gazebo.md",
     "RoboNav/terrain mapping.md",
+    "RoboNav/robonav URC background.md",
+    "RoboNav/ROS2 features that could be very useful.md",
+    "GT/resources.md",
     "GT/courses that I want to take at GATECH.md",
+    "GT",
+    "Untitled.canvas",
     "RoboNav"
   ]
 }
