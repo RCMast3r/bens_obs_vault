@@ -39,6 +39,9 @@ https://github.com/the-nix-way
 
 ### nix flakes
 
+development helpers:
+https://github.com/danielbarter/mini_compile_commands
+
 enabling flakes:
 
 inputs = dependencies
