@@ -42,6 +42,10 @@ https://github.com/the-nix-way
 development helpers:
 https://github.com/danielbarter/mini_compile_commands
 
+creating flakes for python projects:
+https://github.com/nix-community/poetry2nix
+
+
 enabling flakes:
 
 inputs = dependencies
