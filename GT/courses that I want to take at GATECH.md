@@ -4,46 +4,36 @@ https://ece.gatech.edu/sites/default/files/documents/graduate/course_schedule.pd
 I am maintaining a registration plan here: https://registration.banner.gatech.edu/StudentRegistrationSsb/ssb/plan/selectPlan
 
 currently has the in person digital control section and the entrepreneurship course added
-## possible first semester courses
-### ECE 6001:
+# possible first semester courses
+### ECE 6001: entrepreneurship course (added to plan)
 looks like I need 3 course numbers for this class: 1 for the lecture, 1 for the studio, and 1 for the Unsupervised Laboratory
-
 lecture course:
 - https://oscar.gatech.edu/bprod/bwckschd.p_disp_detail_sched?term_in=202308&crn_in=90087
 - prof: Gregory Mihalik
 - number: 
 
 studio course number:
-
 unsupervised lab:
-### ECE 6550: linear systems and controls 
-
+### ECE 6550: linear systems and controls (low prof rating due to heavy basis in math)
 - CRN: 80450
 - prof: Erik Verriest
 https://www.ratemyprofessors.com/professor/1082134
-### ECE 6122 - Advanced Programming Techniques for Engineering Applications
+### ECE 6122 - Advanced Programming Techniques for Engineering Applications (*manual add required* via course add)
 
 prof: [Hurley, Jeffery](mailto:jeffery.hurley@gtri.gatech.edu)
 
 lecture CRN 86686
 lab CRN: 88488
-
-### ECE 6258 - Digital Image Processing
-### ECE 6551 - Digital Control
-
+### ECE 6258 - Digital Image Processing 
+### ECE 6551 - Digital Control (good prof, 8am class tho for in person = L)
 prof: Yorai Wardi
 CRNs
 in-person: 92665 (8am L)
 remote: 92667
 
+#### other semester courses / grad plan:
 
-
-#### other semester courses:
-
-
-
-my plan:
-
+my current plan:
 Group 1:
 (systems and controls) ECE 6550/6551 linear / digital controls (3) fall 2023
 (systems and controls) ECE 6553 - Optimal Control and Optimization (3) spring 2024 | spring 2025
@@ -54,4 +44,7 @@ group 2:
 (Electrical Energy) ECE 6331 - Power Electronic Circuits (spring 2024)
 (cross-listed) ECE 7785 - Intro Robotics Research
 
+Electives:
+ece 6001 
+*(TODO)
 

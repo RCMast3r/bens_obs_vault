@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "91b634153916c465",
+        "id": "36d508fc7448cd53",
         "type": "split",
         "children": [
           {
@@ -50,11 +50,11 @@
             ]
           },
           {
-            "id": "0da566c03d4726e8",
+            "id": "bab6460d8c3a7779",
             "type": "tabs",
             "children": [
               {
-                "id": "f92b793b94a01514",
+                "id": "4ee84bfbfb763905",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -83,7 +83,7 @@
                       },
                       "serial": {
                         "columns": 170,
-                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git status\r\nOn branch master\r\nYour branch is up to date with 'origin/master'.\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n        \u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add .",
+                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add . && git commit -m \"update\" && git pus",
                         "rows": 57
                       }
                     }
@@ -218,7 +218,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f92b793b94a01514",
+  "active": "4ee84bfbfb763905",
   "lastOpenFiles": [
     "GT/courses that I want to take at GATECH.md",
     "GT/resources.md",
