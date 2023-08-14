@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ded5b6293f2ba67b",
+        "id": "603e77cc3d381111",
         "type": "split",
         "children": [
           {
@@ -17,7 +17,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "RoboNav/generic VCU ideas and requirements.md",
+                    "file": "GT/courses that I want to take at GATECH.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2d61c7785c81a42a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GT/resources.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c67248e6bfaaa21c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "GT/courses that I want to take at GATECH.md",
                     "mode": "source",
                     "source": false
                   }
@@ -26,11 +50,11 @@
             ]
           },
           {
-            "id": "45f585cb56ed7cac",
+            "id": "7ee1d0f70d8724d6",
             "type": "tabs",
             "children": [
               {
-                "id": "24804f30c01b94f8",
+                "id": "dee9734172257ce1",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
@@ -58,9 +82,9 @@
                         "useWin32Conhost": true
                       },
                       "serial": {
-                        "columns": 241,
-                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add ",
-                        "rows": 35
+                        "columns": 170,
+                        "data": "\r\n\u001b[32mrcmas@DESKTOP-CSMPT1J \u001b[35mMINGW64 \u001b[33m/e/bens_vault\u001b[36m (master)\r\n\u001b[0m$ git add .",
+                        "rows": 57
                       }
                     }
                   },
@@ -194,8 +218,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "24804f30c01b94f8",
+  "active": "dee9734172257ce1",
   "lastOpenFiles": [
+    "GT/courses that I want to take at GATECH.md",
+    "GT/resources.md",
+    "GT/Untitled.md",
     "RoboNav/generic VCU ideas and requirements.md",
     "nix stuff.md",
     "RoboNav/journey.canvas",
@@ -206,8 +233,6 @@
     "RoboNav/terrain mapping.md",
     "RoboNav/robonav URC background.md",
     "RoboNav/ROS2 features that could be very useful.md",
-    "GT/resources.md",
-    "GT/courses that I want to take at GATECH.md",
     "GT",
     "Untitled.canvas",
     "RoboNav"
